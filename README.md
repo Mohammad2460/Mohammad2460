@@ -2,8 +2,6 @@
 
 Solo indie founder shipping AI tools and SaaS. I build AI-powered developer tools, automation, and full-stack products with Next.js, Supabase, and Codex.
 
-- X: [@SaasByMohd](https://x.com/SaasByMohd)
-- Email: [mohammad1820@icloud.com](mailto:mohammad1820@icloud.com)
 
 ## Featured Builds
 
